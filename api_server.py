@@ -127,4 +127,4 @@ def api_list_students():
 
 
 
-app.run(debug=True)
+app.run()
